@@ -6,8 +6,7 @@
   "keywords": [
     "css",
     "oocss",
-    "",
-    ""
+    "filter-hue-rotate"
   ],
   "css-filter-hue-rotate": {
     "type": "git",
