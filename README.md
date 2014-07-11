@@ -28,7 +28,7 @@ or download the css on github and include in your project.
 .hue-rotate7 { filter: hue-rotate(315deg); }
 .hue-rotate8 { filter: hue-rotate(360deg); }
 
-@include break(not-small) {
+@media screen and (min-width: 48em) {
   .hue-rotate1-ns { filter: hue-rotate(45deg); }
   .hue-rotate2-ns { filter: hue-rotate(90deg); }
   .hue-rotate3-ns { filter: hue-rotate(135deg); }
@@ -39,7 +39,7 @@ or download the css on github and include in your project.
   .hue-rotate8-ns { filter: hue-rotate(360deg); }
 }
 
-@include break(medium) {
+@media screen and (min-width: 48em) and (max-width: 64em) {
   .hue-rotate1-m { filter: hue-rotate(45deg); }
   .hue-rotate2-m { filter: hue-rotate(90deg); }
   .hue-rotate3-m { filter: hue-rotate(135deg); }
@@ -50,7 +50,7 @@ or download the css on github and include in your project.
   .hue-rotate8-m { filter: hue-rotate(360deg); }
 }
 
-@include break(large) {
+@media screen and (min-width: 64em)  {
   .hue-rotate1-l { filter: hue-rotate(45deg); }
   .hue-rotate2-l { filter: hue-rotate(90deg); }
   .hue-rotate3-l { filter: hue-rotate(135deg); }
