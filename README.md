@@ -20,7 +20,8 @@ View on [npm](https://www.npmjs.org/package/css-filter-hue-rotate)
 ## File Size
 
 1.7K filter-hue-rotate.css
-1.4K filter-hue-rotate.min.css
+1.4K filter-hue-rotate.min.css 
+237B minified and gzipped
 
 ## The Code
 ```
