@@ -1,5 +1,6 @@
 {
   "name": "css-filter-hue-rotate",
+  "style": "filter-hue-rotate.css",
   "version": "0.0.5",
   "homepage": "http://github.com/mrmrs/css-filter-hue-rotate",
   "description": "Css module of single purpose classes for filter hue rotate",
